@@ -1,4 +1,4 @@
-# Appcircle Sample App for Native (Obj-C/Swift) iOS Builds
+# GARANTIBBVA Appcircle Sample App for Native (Obj-C/Swift) iOS Builds
 This is a sample Smartface app for testing iOS App build functionality in Appcircle. As an Objective-C project, this repository can be used for iOS builds.
 
 ## Using the Appcircle Build Module
